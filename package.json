@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "opportfolio",
-  "homepage": "https://github.com/gyanweb/myportfolio.git",
+  "homepage": "https://gyanweb.github.io/myportfolio/",
   "version": "1.2.0",
   "scripts": {
     "build": "react-scripts build",
