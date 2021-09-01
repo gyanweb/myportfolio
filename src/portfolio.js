@@ -24,12 +24,12 @@ const greeting = {
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/gyanweb",
-  linkedin: "https://www.linkedin.com/in/hrishi-patel-ba8476140/",
+  linkedin: "https://www.linkedin.com/in/#/",
   gmail: "utpalshah588@gmail.com",
   gitlab: " ",
   facebook: " ",
   twitter: "https://twitter.com/#",
-  instagram: "https://www.instagram.com/picleric/",
+  instagram: "https://www.instagram.com/#/",
 };
 
 const skills = {
@@ -331,17 +331,17 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "SAL Engineering and Technical Institute",
-      subtitle: "B.Tech. in Computer Engineering",
+      title: "Kcc Institute Of Technical and Management",
+      subtitle: "B.Tech. in Computer Science Engineering",
       logo_path: "sal.png",
       alt_name: "SETI",
-      duration: "2017 - Present",
+      duration: "2013 - 2017",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         "⚡ I have also completed various online courses for ML/DL, Web Development, Mobile App Development, etc.",
         "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
       ],
-      website_link: "https://www.sal.edu.in/",
+      website_link: "#",
     },
   ],
 };
@@ -353,7 +353,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://coursera.org/share/737a9587023c666b8e6cb303157aaeba",
+        "#",
       alt_name: "deeplearning.ai",
       color_code: "#47A048",
     },
@@ -362,7 +362,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/FM5AKEZA9NUY",
+        "#",
       alt_name: "deeplearning.ai",
       color_code: "#F6B808",
     },
@@ -371,7 +371,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/U8BLDNUT9UUM",
+        "#",
       alt_name: "deeplearning.ai",
       color_code: "#2AAFED",
     },
@@ -380,7 +380,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/YLC25SJQKH3Y",
+        "#",
       alt_name: "deeplearning.ai",
       color_code: "#E2405F",
     },
@@ -389,7 +389,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "stanford_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/72KY93DT82MP",
+        "#",
       alt_name: "Stanford University",
       color_code: "#8C151599",
     },
@@ -398,7 +398,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/25JXRB2RWHRX",
+        "#",
       alt_name: "Google",
       color_code: "#7A7A7A",
     },
@@ -407,7 +407,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/PKR9M9LQ3JWC",
+        "#",
       alt_name: "Google",
       color_code: "#0C9D5899",
     },
